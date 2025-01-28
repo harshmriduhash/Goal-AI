@@ -10,7 +10,7 @@
   },
   "dependencies": {
     "@clerk/clerk-react": "^5.22.6",
-    "@clerk/nextjs": "^6.10.2",
+    "@clerk/nextjs": "^6.10.3",
     "@langchain/anthropic": "^0.3.12",
     "@langchain/core": "^0.3.36",
     "@langchain/langgraph": "^0.2.41",
@@ -25,8 +25,8 @@
     "lucide-react": "^0.474.0",
     "next": "15.1.6",
     "radix-ui": "^1.1.2",
-    "react": "^19.0.0",
-    "react-dom": "^19.0.0",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
     "react-timeago": "^7.2.0",
     "tailwind-merge": "^2.6.0",
     "tailwindcss-animate": "^1.0.7"
@@ -40,7 +40,7 @@
     "eslint": "^9",
     "eslint-config-next": "15.1.6",
     "postcss": "^8",
-    "tailwindcss": "^3.4.1",
+    "tailwindcss": "^3.4.17",
     "typescript": "^5"
   }
 }
